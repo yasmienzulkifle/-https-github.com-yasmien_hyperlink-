@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Page Title</title>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+</style>
+<ul>
+  <li><a class="active" href="home.html">Home</a></li>
+  <li><a href="biodata.html">Biodata</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+</ul>
+</head>
+
+<body>
+
+<center><h1>MY PAGE</h1>
+<p>Hi,Everyone. Welcome to my page.I hope you guys enjoy my Journey !</p>
+<p>I am a cheerful and easily entertained person.</p>
+<p>I hope you guys enjoy my Journey!.</p>
+
+</body>
+</html>
