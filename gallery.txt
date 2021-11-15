@@ -40,14 +40,14 @@ li a:hover:not(.active) {
 </ul>
 <body>
 
-<center><h1>My Gallery</h1>
+
 <center><h1>My Gallery</h1></center>
-<p>My first paragraph.</p>
-<img src="images/mien1.jpeg" width="100" height="200">
-<img src="images/mien2.jpeg" width="100" height="200">
-<img src="images/mien3.jpeg" width="100" height="200">
-<img src="images/mien4.jpeg" width="100" height="200">
-<img src="images/mien5.jpeg" width="100" height="200">
+<center>h2>MY 2021>/h1></center>
+<img src="images/mien.jpeg" width="200" height="200">
+<img src="images/mien2.jpeg" width="200" height="200">
+<img src="images/mien3.jpeg" width="200" height="200">
+<img src="images/mien4.jpeg" width="200" height="200">
+<img src="images/mien5.jpeg" width="200" height="200">
 
 <p>Instagram: <a href="https://www.instagram.com/">yasmien.zulkifle</a></p>
 
